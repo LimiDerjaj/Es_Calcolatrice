@@ -1,4 +1,5 @@
 
 .vs/
 
-EsCalcolatrice/bin/Debug/EsCalcolatrice.pdb
+./bin/
+./obj/
