@@ -1,0 +1,6 @@
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\bin\Debug\EsCalcolatrice.exe.config
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\bin\Debug\EsCalcolatrice.exe
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\bin\Debug\EsCalcolatrice.pdb
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\obj\Debug\EsCalcolatrice.csprojAssemblyReference.cache
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\obj\Debug\EsCalcolatrice.exe
+C:\Users\CORSO 52\source\repos\EsCalcolatrice\EsCalcolatrice\obj\Debug\EsCalcolatrice.pdb
