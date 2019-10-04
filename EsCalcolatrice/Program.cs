@@ -9,6 +9,11 @@ namespace EsCalcolatrice
 {
     class Program
     {
+        enum Operazioni
+        {
+            provaEnum,
+            provaEnum2
+        }
         static void Main(string[] args)
         {
             int x;
