@@ -26,6 +26,7 @@ namespace EsCalcolatrice
 
             Console.WriteLine("Benvenuto in MyCalculator");
 
+            //sto per fare le operazioni
             do {
                 do
                 {
