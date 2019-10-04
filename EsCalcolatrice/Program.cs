@@ -19,15 +19,17 @@ namespace EsCalcolatrice
             int z;
             string a;
 
+            Console.WriteLine("Benvenuto in MyCalculator");
+
             do {
                 do
                 {
-                    Console.WriteLine("Benvenuto in MyCalculator\r\n\r\nScegli l' operazione da eseguire per iniziare:\r\n\r\n1 = +\r\n2 = -\r\n3 = *\r\n4 = /\r\n");
+                    Console.WriteLine("\r\nScegli l' operazione da eseguire per iniziare:\r\n\r\n1 = +\r\n2 = -\r\n3 = *\r\n4 = /\r\n");
                     string operazione = Console.ReadLine();
                     success = Int32.TryParse(operazione, out z);
                     if (!success || z < 1 || z > 4)
                     {
-                        Console.WriteLine("Il valore inserito non è corretto, inserire un valore tra 1 e 4");
+                        Console.WriteLine("\r\nIl valore inserito non è corretto, inserire un valore tra 1 e 4");
                     }
                 } while (!success || z < 1 || z > 4);
 
